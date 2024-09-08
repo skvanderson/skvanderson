@@ -9,7 +9,7 @@
 
 <h3 align="left">👨‍💻 Sobre mim</h3>
 
-<p align="left">Eu sou desenvolvedor apaixonado por tecnologia, atualmente focado em Cloud Computing e DevOps.<br><br>- 🔭 Atualmente, trabalho com projetos de infraestrutura em nuvem.<br>- 📚 Estou estudando para certificações AWS e aprofundando meus conhecimentos em Linux e redes.<br>- ⚡ No meu tempo livre, gosto de estudar sobre segurança e novas tecnologias.</p>
+<p align="left">Sou um desenvolvedor apaixonado por tecnologia, com conhecimento em Computação em Nuvem e atualmente aprimorando minhas habilidades em Desenvolvimento Front-End. Minha jornada profissional tem sido focada em Cloud Computing e DevOps, e estou sempre em busca de novos desafios e aprendizados para expandir meu conjunto de habilidades. Além disso, estou trabalhando para me tornar cada vez mais proficiente nas principais tecnologias que moldam o ambiente de desenvolvimento atual.</p>
 
 ###
 
