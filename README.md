@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/111879403?v=4" width="150px" alt="Sharlles Anderson" />
+  <img src="https://avatars.githubusercontent.com/u/54425710?v=4" width="150px" alt="Sharlles Anderson" />
 </div>
 
 ###
