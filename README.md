@@ -35,12 +35,6 @@
 
 <h3 align="left">🌐 Networking & Security</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/security/security-original.svg" height="40" alt="Security logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/compliance/compliance-original.svg" height="40" alt="Compliance logo" />
-</div>
-
 ###
 
 <div align="left">
