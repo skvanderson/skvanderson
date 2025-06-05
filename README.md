@@ -1,21 +1,9 @@
 <div align="center">
 </div>
 
-<h1 align="center">Olá! 👋 Eu sou Sharlles</h1>
+###
 
-<div align="center">
-  <a href="https://learn.microsoft.com/pt-br/users/sharllesanderson-0018/credentials/3eef3d9a523488e4?ref=https%3A%2F%2Fwww.linkedin.com%2F">
-    <img src="https://user-images.githubusercontent.com/62725115/275475815-c532133f-0146-410a-a736-383f488f8349.png" height="50" alt="Microsoft Certified Fundamentals" />
-  </a>
-  <img width="20" />
-  <a href="https://www.credly.com/badges/31a1f9bc-707f-49f4-a17f-c2b13287a736/linked_in_profile">
-    <img src="https://user-images.githubusercontent.com/62725115/275475828-f745293b-1257-4d2b-911b-4cdd24b66554.png" height="50" alt="AWS Certified Cloud Practitioner" />
-  </a>
-  <img width="20" />
-  <a href="https://learn.microsoft.com/pt-br/users/sharllesanderson-0018/credentials/f2c433f810a7dbd4?ref=https%3A%2F%2Fwww.linkedin.com%2F">
-    <img src="https://user-images.githubusercontent.com/62725115/275475842-6693245a-7895-46a0-a848-33ef5a5f2908.png" height="50" alt="Microsoft Certified Security, Compliance, and Identity Fundamentals" />
-  </a>
-</div>
+<h1 align="center">Olá! 👋 Eu sou Sharlles</h1>
 
 ###
 
@@ -28,19 +16,19 @@
 <h3 align="left">🛠 Tecnologias que eu uso</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
 </div>
 
 ###
@@ -50,9 +38,9 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/sharlles-andersonn/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/sharlles-andersonn/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo"  />
+  </a>
 </div>
 
 ###
@@ -60,5 +48,5 @@
 <h3 align="left">🔥 Meus stats:</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=skvanderson&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=skvanderson&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
