@@ -52,7 +52,6 @@
 ### Microsoft
 
 [![SC-900 Badge](https://github.com/skvanderson/skvanderson/blob/main/sc-900.png?raw=true)](https://learn.microsoft.com/pt-br/users/sharllesanderson-0018/credentials/f2c433f810a7dbd4?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-
 [![MS-900 Badge](https://github.com/skvanderson/skvanderson/blob/main/ms900.png?raw=true)](https://learn.microsoft.com/pt-br/users/sharllesanderson-0018/credentials/3eef3d9a523488e4?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 <h3 align="left">🔥 Meus stats:</h3>
