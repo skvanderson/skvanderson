@@ -47,7 +47,7 @@
 
 ### AWS
 
-[![AWS Certified Cloud Practitioner]()](https://www.credly.com/badges/31a1f9bc-707f-49f4-a17f-c2b13287a736/linked_in_profile)
+[![AWS Certified Cloud Practitioner](https://github.com/skvanderson/skvanderson/blob/main/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/31a1f9bc-707f-49f4-a17f-c2b13287a736/linked_in_profile)
 
 ###
 
