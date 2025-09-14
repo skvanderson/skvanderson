@@ -47,6 +47,7 @@ Além disso, estou trabalhando para me tornar cada vez mais proficiente nas prin
 
 [![AWS Certified Cloud Practitioner](https://github.com/skvanderson/skvanderson/blob/main/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/31a1f9bc-707f-49f4-a17f-c2b13287a736/linked_in_profile)
 [![AWS Certified Developer – Associate](https://github.com/skvanderson/skvanderson/blob/main/aws-certified-developer-associate.png)](https://www.credly.com/badges/ce8d54e6-eb2b-431f-b693-ed1e029006ad/linked_in_profile)
+[![AWS Certified Solutions Architect – Associate](https://github.com/skvanderson/skvanderson/blob/main/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/1e0a8c36-9cb5-4c2f-bf2f-3982ad9dfe11/linked_in_profile)
 [![SC-900 Badge](https://github.com/skvanderson/skvanderson/blob/main/sc-900.png?raw=true)](https://learn.microsoft.com/pt-br/users/sharllesanderson-0018/credentials/f2c433f810a7dbd4?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 [![MS-900 Badge](https://github.com/skvanderson/skvanderson/blob/main/ms900%20(1).png)](https://learn.microsoft.com/pt-br/users/sharllesanderson-0018/credentials/3eef3d9a523488e4?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
