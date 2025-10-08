@@ -7,9 +7,11 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia, com conhecimento em Computação em Nuvem e atualmente aprimorando minhas habilidades em Desenvolvimento Front-End.  
-Minha jornada profissional tem sido focada em Cloud Computing e DevOps, e estou sempre em busca de novos desafios e aprendizados para expandir meu conjunto de habilidades.  
-Além disso, estou trabalhando para me tornar cada vez mais proficiente nas principais tecnologias que moldam o ambiente de desenvolvimento atual.
+Sou um profissional de Tecnologia da Informação com experiência tanto em Desenvolvimento quanto em Infraestrutura, possuindo conhecimentos sólidos em Computação em Nuvem. Minha trajetória começou na área de suporte técnico e infraestrutura, evoluindo para atuação em ambientes DevOps e Cloud.
+
+Tenho experiência prática com AWS, Linux e administração de sistemas, e atualmente concentro meus estudos e projetos em CI/CD, automação de ambientes e Infraestrutura como Código, utilizando ferramentas como Terraform, Ansible, Docker e Kubernetes. Meu objetivo é implementar práticas DevOps que otimizem processos, aumentem a confiabilidade dos sistemas e tornem o ciclo de desenvolvimento mais ágil e colaborativo.
+
+Sou movido pela curiosidade e pelo aprendizado contínuo, sempre buscando desenvolver soluções escaláveis e seguras que integrem Cloud Computing, automação e as melhores práticas de engenharia.
 
 ---
 
@@ -20,15 +22,21 @@ Além disso, estou trabalhando para me tornar cada vez mais proficiente nas prin
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" alt="Kubernetes logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" height="40" alt="Ansible logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" height="40" alt="Terraform logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python logo" />
 </div>
 
 ---
